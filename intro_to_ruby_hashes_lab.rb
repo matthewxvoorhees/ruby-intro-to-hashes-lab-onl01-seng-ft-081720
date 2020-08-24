@@ -10,7 +10,9 @@ actor_name = {
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  
+	}
 
 end
 
